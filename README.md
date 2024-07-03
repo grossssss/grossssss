@@ -6,4 +6,4 @@
 - 😄 Pronoums: aaaaaaaaaaa
 - ⚡ Fun fact: aaaaaaaaaaa
 
- ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=purple)
